@@ -1,4 +1,4 @@
-module PubSub
+module rpc
 
 go 1.19
 

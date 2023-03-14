@@ -1,4 +1,4 @@
-module Routing
+module Topics
 
 go 1.19
 
